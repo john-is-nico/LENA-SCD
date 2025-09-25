@@ -1,0 +1,24 @@
+customer_id,name,city,valid_from,valid_to,is_current
+101,Alice,Manila,2020-01-01,2021-06-30,0
+101,Alice,Cebu,2021-07-01,,1
+102,Bob,Cebu,2020-05-01,,1
+103,Charlie,Davao,2021-03-10,2022-02-28,0
+103,Charlie,Cagayan de Oro,2022-03-01,,1
+104,Diana,Baguio,2019-11-15,,1
+105,Edward,Makati,2020-04-20,2023-04-30,0
+105,Edward,Taguig,2023-05-01,,1
+106,Fatima,Quezon City,2021-08-12,,1
+107,George,Cebu,2021-01-01,2022-08-31,0
+107,George,Davao,2022-09-01,,1
+108,Hannah,Iloilo,2020-02-25,,1
+109,Ivan,Pasig,2020-12-01,2021-12-31,0
+109,Ivan,Makati,2022-01-01,2023-06-30,0
+109,Ivan,Taguig,2023-07-01,,1
+110,Jenny,Manila,2021-09-10,,1
+111,Karl,Bacolod,2020-06-20,,1
+112,Linda,Cebu,2019-05-05,2021-11-30,0
+112,Linda,Manila,2021-12-01,,1
+113,Marco,Davao,2021-02-14,,1
+114,Nina,Quezon City,2020-07-22,,1
+115,Oscar,Makati,2019-01-01,2022-03-31,0
+115,Oscar,Pasay,2022-04-01,,1
